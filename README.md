@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">  I'm a learning Programmer:man_technologist:
-                     <img src="https://github.com/yammadev/flag-icons/blob/bd4bcf4f4829002cd10416029e05ba89a7554af4/png/IN.png">
+                     
 </h3>
 Here are some ideas to get you started:
 
