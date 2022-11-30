@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Master of Computer Applications** 🏫👨‍🎓
 
-- 💬 Ask me about If you ask me a question, and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what. I know how to find the answer. And I will find the answer.
+- 💬 If you ask me a question, and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what. I know how to find the answer. And I will find the answer.
 
 
 - 📫 How to reach me:  ananthudevdv@gmail.com :incoming_envelope:
