@@ -3,12 +3,13 @@
 </h1>
 
 <h3 align="center">  I'm a learning Programmer:man_technologist:
+  
+ <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
                      
 </h3>
 
-<p>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananthu dev" height="30" width="40" /></a>
-</p>
+
+
 
 - 🌱 I’m currently learning **Master of Computer Applications** 🏫👨‍🎓
 
