@@ -82,8 +82,7 @@
 
 
 <p>
-    <a href="https://github-readme-streak-stats.herokuapp.com?user=ananthudev&theme=github-green-purple&hide_border=true&date_format=j%2Fn%5B%2FY%5D"></a>
-    <br>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ananthudev&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 <!--    -->
 </p>
 
