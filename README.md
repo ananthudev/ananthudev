@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ananthu Dev,Nice Meeting You 😊✨</h1>
+<h1 align="center">Hi 👋, I'm Abhirami PS,Nice Meeting You 😊✨</h1>
 
 
 <h3 align="center">I'm a learning Programmer 💻👨‍💻</h3>
@@ -20,9 +20,9 @@
 - 💬 If you ask me a question, and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what. I know how to find the answer. And I will find the answer.
 
 
-- 📫 How to reach me:  ananthudevdv@gmail.com :incoming_envelope:
+- 📫 How to reach me:  abhiramisankar2000@gmail.com :incoming_envelope:
 
-- 🤔 In case you want to know more about me [Ananthu Dev D V](https://github.com/ananthudev) :point_left::point_left:
+- 🤔 In case you want to know more about me [Abhirami PS](https://github.com/Abhirami0203) :point_left::point_left:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
