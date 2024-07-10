@@ -15,7 +15,7 @@
 
 
 
-- 🌱 I’m currently learning **Master of Computer Applications** 🏫👨‍🎓
+- 🌱 I’m a **Master of Computer Applications** graduate🏫👨‍🎓
 
 - 💬 If you ask me a question, and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what. I know how to find the answer. And I will find the answer.
 
