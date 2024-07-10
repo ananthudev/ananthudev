@@ -6,7 +6,7 @@
 
 
   
- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3917576/media/4de9a42842478dea7b26f36beda0a98f.gif">
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfik1&label=Profile%20views&color=0e75b6&style=flat" alt="alfik1" /> </p>
                      
