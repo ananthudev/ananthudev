@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananthu Dev,Nice Meeting You 😊✨</h1>
 
 
-<h3 align="center">I'm a learning Programmer 💻👨‍💻</h3>
+<h3 align="center">Conquering coding day by day 💻👨‍💻</h3>
 
 
 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me:  ananthudevdv@gmail.com :incoming_envelope:
 
-- 🤔 In case you want to know more about me [Ananthu Dev D V](https://github.com/ananthudev) :point_left::point_left:
+- 🤔 In case you want to know more about me [Ananthu Dev D V](https://github.com/ananthudev) :point_left:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
