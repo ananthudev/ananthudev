@@ -62,9 +62,7 @@
 <p>
     <a href="https://github-readme-streak-stats.herokuapp.com?user=ananthudev&theme=github-green-purple&hide_border=true&date_format=j%2Fn%5B%2FY%5D"></a>
     <br>
-    <a href="https://github.com/ananthudev/github-readme-stats">
-        <img alt="Ananthu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ananthudev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" />
-    </a>
+<!--    -->
 </p>
 
 
