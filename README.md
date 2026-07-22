@@ -1,28 +1,99 @@
-<h1 align="center">Hi 👋, I'm Ananthu Dev,Nice Meeting You 😊✨</h1>
+<h1 align="center">Hi 👋, I'm Ananthu Dev D V</h1>
 
-
-<h3 align="center">Conquering coding day by day 💻👨‍💻</h3>
-
-
-
-  
- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfik1&label=Profile%20views&color=0e75b6&style=flat" alt="Ananthu Dev" /> </p
-                     
+<h3 align="center">
+Project Engineer | Aerospace & Defence Software Engineer | Flight Software Development
 </h3>
 
+<p align="center">
+Developing mission-critical software for Aerospace & Defence applications 🚀
+</p>
 
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=ananthudev&label=Profile%20views&color=0e75b6&style=flat" alt="Ananthu Dev" />
+</p>
 
+---
 
-- 🌱 I’m a **Master of Computer Applications** graduate🏫👨‍🎓
+## 🚀 About Me
 
-- 💬 If you ask me a question, and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what. I know how to find the answer. And I will find the answer.
+I am a **Project Engineer at Spacelabs Analytics & Dynamics**, specializing in the development of **mission-critical software for aerospace and defence applications**.
 
+My work focuses on:
 
-- 📫 How to reach me:  ananthudevdv@gmail.com :incoming_envelope:
+- ✈️ Flight Software Development
+- 🎯 Precision-Guided Defence Systems
+- 🛰️ Aerospace Simulation
+- 🧭 Guidance, Navigation & Control (GNC)
+- ⚙️ Embedded Systems
+- 🔗 Systems Integration
+- ✅ Verification & Validation
 
-- 🤔 In case you want to know more about me [Ananthu Dev D V](https://www.linkedin.com/in/ananthudev/) :point_left:
+I design and develop onboard flight software, implement software architectures, integrate Guidance, Navigation & Control subsystems, develop engineering validation tools, and contribute to aerospace simulation and system-level verification activities.
+
+---
+
+## 🔭 Current Focus
+
+- Flight Software Development
+- Embedded Systems
+- Aerospace Simulation
+- Guidance, Navigation & Control (GNC)
+- Systems Engineering
+- Defence Technology
+
+---
+
+## 🛠 Technical Skills
+
+### Programming Languages
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40"/>
+</p>
+
+### Technologies
+
+<p>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40"/>
+
+</p>
+
+---
+
+## 💼 Areas of Interest
+
+- Flight Software Development
+- Aerospace & Defence Software
+- Embedded Systems
+- Guidance, Navigation & Control (GNC)
+- Aerospace Simulation
+- Systems Integration
+- Mission-Critical Software
+- Verification & Validation
+
+---
+
+## 📫 Contact
+
+📧 **ananthudevdv@gmail.com**
+
+🔗 LinkedIn
+
+https://www.linkedin.com/in/ananthudev
+
+🌐 Website
+
+https://ananthudev.github.io
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
