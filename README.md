@@ -16,7 +16,7 @@ Developing mission-critical software for Aerospace & Defence applications 🚀
 
 ## 🚀 About Me
 
-I am a **Project Engineer at Aerospace and Defense**, specializing in the development of **mission-critical software for aerospace and defence applications**.
+I am a **Project Engineer working at Aerospace and Defense sector**, specializing in the development of **mission-critical software for aerospace and defence applications**.
 
 My work focuses on:
 
